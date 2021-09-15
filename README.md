@@ -45,13 +45,13 @@ Where parameters *A*, *x*<sub>0</sub>, and *w* are the amplitude, the centre, an
 
 The fringe contrast is equal to the magnitude of the first-order correlation function |*g*<sup>(1)</sup>(*t*)|, where *t* is the time delay.
 
-To acquire the temporal dependence of the correlation function, we record the fringe contrast while changing the time delay. We average over several (usually 5) realisations for each time delay.
+To acquire the temporal dependence of the correlation function, we record the fringe contrast while changing the time delay. We average over several (usually five) realisations for each time delay.
 
 <br>
 
 ## Data Format
 
-The experimental data are saved in the [Hierarchical Data Format](https://www.hdfgroup.org/solutions/hdf5/) (HDF) as H5 files. Each interferograms is saved as a separate frame in this H5 file. A frame contains a 2D array corresponding to the interferogram image plus some extra information, called attributes (e.g. position of the moving arm, the exact time of the measurement, etc.).
+The experimental data are saved in the [Hierarchical Data Format](https://www.hdfgroup.org/solutions/hdf5/) (HDF) as H5 files. Each interferogram is saved as a separate frame in this H5 file. A frame contains a 2D array corresponding to the interferogram image plus some extra information, called attributes (e.g. position of the moving arm, the exact time of the measurement, etc.).
 
 In our case, we are only interested in the 2D image and the position of the moving arm. A pythonic interface to the HDF data format is provided by the [h5py package](https://docs.h5py.org/en/stable/).
 
