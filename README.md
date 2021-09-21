@@ -55,7 +55,7 @@ The experimental data are saved in the [Hierarchical Data Format](https://www.hd
 
 In our case, we are only interested in the 2D image and the position of the moving arm. A pythonic interface to the HDF data format is provided by the [h5py package](https://docs.h5py.org/en/stable/).
 
-Due to its size (105 MB), the file cannot be uploaded on GitHub. It accessible through [Dropbox](https://www.dropbox.com/s/qhfjxkqx796g0u2/Interference_Data.h5?dl=0).
+Due to its size (105 MB), the file used in this tutorial cannot be uploaded on GitHub. It accessible through [Dropbox](https://www.dropbox.com/s/qhfjxkqx796g0u2/Interference_Data.h5?dl=0). The dataset used for [Phys. Rev. B 103, 235313 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.235313) is available through the [University of St Andrews](https://risweb.st-andrews.ac.uk/portal/en/datasets/ultralong-temporal-coherence-in-optically-trapped-excitonpolariton-condensates-dataset(cb6784fd-521e-46c6-a4fa-c8936cab4f4b).html).
 
 <br>
 
