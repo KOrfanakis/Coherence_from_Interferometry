@@ -1,5 +1,36 @@
 # Calculating the Temporal Decay of *g*<sup>(1)</sup>(*t*) Using Python
 
+<p align="center">
+    <a href="https://nbviewer.org/github/KOrfanakis/Coherence_from_Interferometry/blob/main/Analysis.ipynb">
+        <img alt="Render With" src="https://img.shields.io/badge/Render%20with-nbviewer-red.svg">
+    </a>
+    <a href="https://www.python.org/">
+        <img alt="Made with" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
+    </a>
+    <a href="https://jupyter.org/try">
+        <img alt="Made with and" src="https://img.shields.io/badge/And%20-Jupyter-orange.svg">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img alt="Licence" src="https://img.shields.io/badge/License-MIT-0298c3.svg">
+    </a>
+    <a>
+        <img alt="Star if useful" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=9cf">
+    </a>
+    <br/>
+</p>
+
+
+**Table of Contents**:
+
+<!--ts-->
+
+- [Objective](#objective)
+- [The Experiment](#the-experiment)
+- [Data Format](#data-format)
+- [Requirements](#requirements)
+
+<!--te-->
+
 <br>
 
 ## Objective
@@ -61,6 +92,6 @@ Due to its size (105 MB), the file used in this tutorial cannot be uploaded on G
 
 ## Requirements
 
-Python Version: 3.6.8 <br>
-Jupyter Notebook Version: 5.7.8 <br>
-Packages: h5py (2.10.0), NumPy (1.19.5), Matplotlib (1.1.5), LMfit (0.9.12), SciPy (1.5.4), Pandas (1.1.5), tqdm (4.50.2)
+Python Version: 3.10.2  <br>
+Jupyter Notebook Version: 6.4.8 <br>
+Packages: h5py (3.6.0), NumPy (1.22.2), Matplotlib (3.5.1), LMfit (1.0.3), SciPy (1.8.0), Pandas (1.4.1), tqdm (4.62.3)
