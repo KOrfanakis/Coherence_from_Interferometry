@@ -28,6 +28,7 @@
 - [The Experiment](#the-experiment)
 - [Data Format](#data-format)
 - [Requirements](#requirements)
+- [Feedback](#feedback)
 
 <!--te-->
 
@@ -95,3 +96,17 @@ Due to its size (105 MB), the file used in this tutorial cannot be uploaded on G
 Python Version: 3.10.2  <br>
 Jupyter Notebook Version: 6.4.8 <br>
 Packages: h5py (3.6.0), NumPy (1.22.2), Matplotlib (3.5.1), LMfit (1.0.3), SciPy (1.8.0), Pandas (1.4.1), tqdm (4.62.3)
+
+<br>
+
+## Feedback
+
+If you have any feedback or ideas to improve this project, feel free to contact me via:
+
+<a href="https://twitter.com/korfanakis">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://uk.linkedin.com/in/korfanakis">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
