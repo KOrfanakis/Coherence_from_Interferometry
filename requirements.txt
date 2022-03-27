@@ -1,8 +1,8 @@
-numpy
-scipy
-matplotlib
-watermark
-pandas
-h5py
-lmfit
-tqdm
+numpy==1.22.2
+scipy==1.8.0
+matplotlib==3.5.1
+watermark==2.3.0
+pandas==1.4.1
+h5py==3.6.0
+lmfit==1.0.3
+tqdm==4.62.3
