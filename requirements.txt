@@ -4,6 +4,5 @@ matplotlib
 watermark
 pandas
 h5py
-json
 lmfit
 tqdm
